@@ -1,10 +1,14 @@
-.HelloWorld table {
-    /* background-color: black; */
-    width: 50%;
-    border-spacing: 5px;
-    border: 10px;
+table {
+    border-collapse: collapse;
+    display: block;
+    overflow-x: auto;    
 }
 
-.testMarkdown.table{
+div.HelloWorld  {
+    background-color: white;
+    width: 10%;
+}
+
+.testMarkdown{
     background-color: red;
 }

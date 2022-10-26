@@ -23,8 +23,7 @@ const input = `<div className=”custom">
 function App() {
   return (
     <Fragment>
-      rehype().
-    <div style={{background: "red", width: "80%"}}>
+    <div className='testMarkdown'>
     <ReactMarkdown
         className="HelloWorld"
         children={markdown} 
